@@ -3,7 +3,8 @@
 
 A collection of small things I learnt.
 
-__1 TIL and counting...__
+__2 TILs and counting...__
 
 ##Mac
-[Edit Path Variables](Mac/edit path variables.md)
+[Edit Path Variables](Mac/Edit Path Variables.md)
+[Using Path Variables That Contain Spaces in Terminal](Using Path Variables That Contain Spaces in Terminal.md)
