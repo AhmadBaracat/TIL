@@ -1,9 +1,9 @@
 # TIL
 > Today I Learned
 
-__1 TIL and counting...__
-
 A collection of small things I learnt.
 
+__1 TIL and counting...__
+
 ##Mac
-[Edit Path Variables](Mac/edit-path-variables.md)
+[Edit Path Variables](Mac/edit path variables.md)
